@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @zhangdebu2001
 - 👀 I’m interested in Python coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on RMS data analysis
 - 📫 How to reach me 392441820@qq.com
 
 <!---
